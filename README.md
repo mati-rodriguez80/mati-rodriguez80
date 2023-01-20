@@ -1,8 +1,24 @@
-- 👋 Hi, I’m Matías Rodríguez!
-- 👀 I’m interested in starting my career as a software developer!
-- 🌱 I've already finished Python, JavaScript, and PostgreSQL courses, and now I’m currently learning Angular, and Ruby on Rails! 
-- 💞️ I’m looking to continue learning about this awesome world!
-- 📫 How to reach me: matiasorodriguez89@gmail.com
+<h2 align="center">👋 Hi, I’m Matías!</h2>
+
+<h4 align="center">Web Developer | Electromechanical Engineer</h4>
+
+<p>
+👀 I’m interested in starting my career as a Web Developer! I began this new adventure by studying the basics of programming in <em>Python</em>, <em>JavaScript</em>, and <em>TypeScript</em>. Following my dream of becoming a <strong>Full-Stack Web Developer</strong>, I started learning <em>Angular</em>, <em>Ruby on Rails</em>, and <em>PostgreSQL</em>, exciting technologies that allow me to understand the development of a web application from Front-End to Back-End.
+</p>
+
+<p>
+I am super excited and hope to soon have the opportunity to work in software development teams with the perseverance, dedication, and commitment that characterize me!
+</p>
+
+<p>📫 How to reach me:</p>
+<ul>
+  <li>Email: matiasorodriguez89@gmail.com</li>
+  <li>
+    <a href="linkedin.com/in/matias-octavio-rodriguez" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
+    </a>&nbsp;&nbsp;
+  </li>
+</ul>
 
 <!---
 mati-rodriguez80/mati-rodriguez80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -12,11 +12,12 @@ I am super excited and hope to soon have the opportunity to work in software dev
 
 <p>📫 How to reach me:</p>
 <ul>
-  <li>Email: matiasorodriguez89@gmail.com</li>
   <li>
-    <a href="linkedin.com/in/matias-octavio-rodriguez" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
-    </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Email-brightgreen" /> matiasorodriguez89@gmail.com
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /> 
+    linkedin.com/in/matias-octavio-rodriguez
   </li>
 </ul>
 

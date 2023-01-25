@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi, I’m Matías!</h2>
 
-<h4 align="center">Web Developer | Electromechanical Engineer</h4>
+<h4 align="center">Software Developer | Electromechanical Engineer</h4>
 
 <p>
 👀 I’m interested in starting my career as a Web Developer! I began this new adventure by studying the basics of programming in <em>Python</em>, <em>JavaScript</em>, and <em>TypeScript</em>. Following my dream of becoming a <strong>Full-Stack Web Developer</strong>, I started learning <em>Angular</em>, <em>Ruby on Rails</em>, and <em>PostgreSQL</em>, exciting technologies that allow me to understand the development of a web application from Front-End to Back-End.

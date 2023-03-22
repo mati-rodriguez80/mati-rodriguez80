@@ -3,7 +3,7 @@
 <h4 align="center">Software Developer | Electromechanical Engineer</h4>
 
 <p>
-👀 I’m interested in starting my career as a Software Developer! I began studying the basics of programming in <em>Python</em>, <em>JavaScript</em>, and <em>TypeScript</em>. With the clear objective of becoming a <strong>Full Stack Developer</strong>, I started learning <em>Angular</em>, <em>Ruby on Rails</em>, and <em>PostgreSQL</em>, sophisticated technologies that allow me to understand the development of a web application from Front-End to Back-End.
+I began studying the basics of programming in <em>Python</em>, <em>JavaScript</em>, and <em>TypeScript</em>. With the clear objective of becoming a <strong>Full Stack Developer</strong>, I started learning <em>Angular</em>, <em>Ruby on Rails</em>, and <em>PostgreSQL</em>, sophisticated technologies that allow me to understand the development of a web application from Front-End to Back-End.
 </p>
 
 <p>

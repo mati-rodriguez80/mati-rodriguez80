@@ -7,7 +7,7 @@ I began studying the basics of programming in <em>Python</em>, <em>JavaScript</e
 </p>
 
 <p>
-I'm very excited and eager to have the opportunity to work in software development teams with the determination, dedication, and commitment that define me!
+I'm very excited and eager to continue working in software development teams with the determination, dedication, and commitment that define me!
 </p>
 
 <p>📫 How to reach me:</p>
